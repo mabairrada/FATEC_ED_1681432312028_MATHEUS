@@ -43,7 +43,7 @@ i = i + 17
 ```
 Instrução: Inserção de valor
 
-**1 Instrução!**
+**2 Instruções!**
 
 ### Total de Instruções:
 
