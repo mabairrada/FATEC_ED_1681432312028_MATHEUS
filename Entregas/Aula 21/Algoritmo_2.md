@@ -37,6 +37,14 @@ Instrução: Acesso da Valor de um Array e Comparação de Valores
 
 **2 Instruções!**
 
+### Linha 5:
+```http
+Devolve i
+```
+Instrução: Retorno de valor
+
+**1 Instrução!**
+
 ### Linha 7: 
 ```http
 i = i + 17
@@ -45,6 +53,14 @@ Instrução: Inserção de valor
 
 **2 Instruções!**
 
+### Linha 9:
+```http
+Devolve i
+```
+Instrução: Retorno de valor
+
+**1 Instrução!**
+
 ### Total de Instruções:
 
-**Contém 7 instruções no total, mas, no pior caso (i sendo maior que n), o algoritmo será executado aproximadamente n/17 vezes.**
+**Contém 9 instruções no total, mas, no pior caso (i sendo maior que n), o algoritmo será executado aproximadamente n/17 vezes.**
