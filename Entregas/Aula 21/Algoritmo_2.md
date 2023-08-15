@@ -49,7 +49,7 @@ Instrução: Retorno de valor
 ```http
 i = i + 17
 ```
-Instrução: Inserção de valor
+Instrução: Inserção e atribuição de valor
 
 **2 Instruções!**
 
