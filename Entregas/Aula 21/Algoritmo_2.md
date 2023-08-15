@@ -48,6 +48,3 @@ Instrução: Inserção de valor
 ### Total de Instruções:
 
 **Contém 7 instruções no total, mas, no pior caso (i sendo maior que n), o algoritmo será executado aproximadamente n/17 vezes.**
-
-
-
