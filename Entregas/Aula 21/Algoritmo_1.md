@@ -37,6 +37,14 @@ Instrução: Acesso da Valor de um Array e Comparação de Valores
 
 **2 Instruções!**
 
+### Linha 5:
+```http
+devolve i
+```
+Instrução: Retorno de valor
+
+**1 Instrução!**
+
 
 ### Linha 8:
 ```http
@@ -45,6 +53,7 @@ Devolve i
 Instrução: Retorno de valor
 
 **1 Instrução!**
+
 
 ### TOTAL DE INSTRUÇÕES:
 
