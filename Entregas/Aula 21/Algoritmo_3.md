@@ -81,6 +81,14 @@ Instrução: Inserção de Valores e Operação Aritmética Simples (Soma)
 
 **2 Instruções!**
 
+### Linha 9:
+```http
+Senao
+```
+Instrução: Comparação
+
+**1 Instrução!**
+
 ### Linha 11:
 ```http
 dir = meio - 1
@@ -89,7 +97,15 @@ Instrução: inserção de Valores e Operação Aritmética Simples (Subtração
 
 **2 Instruções!**
 
+### Linha 13:
+```http
+14 devolve -1
+```
+Instrução: Retorno de valor
+
+**1 Instrução!**
+
 ### Total de Instruções:
 
-**Contém 13 instruções no total, mas, no pior caso (dir sendo maior que esq), será o produto de instruções dentro do loop com as de fora do loop, as 14 e o número de interações.**
+**Contém 16 instruções no total, mas, no pior caso (dir sendo maior que esq), será o produto de instruções dentro do loop com as de fora do loop, as 14 e o número de interações.**
 
