@@ -45,7 +45,7 @@ Instrução: Comparação de Valores
 ```http
 meio = ((esq + dir) /2)
 ```
-Instrução: Inserção de Valores e Operação Aritmética Simples (Soma)
+Instrução: Inserção de Valores, Operação Aritmética Simples (Soma/Divisão)
 
 **2 Instruções!**
 
@@ -107,5 +107,5 @@ Instrução: Retorno de valor
 
 ### Total de Instruções:
 
-**Contém 16 instruções no total, mas, no pior caso (dir sendo maior que esq), será o produto de instruções dentro do loop com as de fora do loop, as 14 e o número de interações.**
+**Contém 17 instruções no total, mas, no pior caso (dir sendo maior que esq), será o produto de instruções dentro do loop com as de fora do loop, as 14 e o número de interações.**
 
