@@ -45,9 +45,9 @@ Instrução: Comparação de Valores
 ```http
 meio = ((esq + dir) /2)
 ```
-Instrução: Inserção de Valores, Operação Aritmética Simples (Soma/Divisão)
+Instrução: Inserção de Valores e Operação Aritmética Simples (Soma/Divisão)
 
-**2 Instruções!**
+**3 Instruções!**
 
 ### Linha 6:
 ```http
