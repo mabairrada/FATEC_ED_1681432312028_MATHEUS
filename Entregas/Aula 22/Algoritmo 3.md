@@ -1,6 +1,6 @@
 # CALCULO DE TEMPO DE EXECUÇÃO - ALGORITIMO 3
 
-CONSIDERANDO QUE X ESTA EM A[1..n]
+**Considerando que X está em A[1..n]**
 
 ```http
 Esq = 1
@@ -16,7 +16,7 @@ Enquanto Esq <= Dir faça
 Devolva -1
 ```
 
-## CONTAGEM DE INSTRUÇÃO POR LINHA
+### CONTAGEM DE INSTRUÇÃO POR LINHA
 ```http
 LINHA 1: executa 1 vez
 LINHA 2: executa 1 vez
@@ -29,7 +29,7 @@ LINHA 8: Px - 1
 LINHA 9: Px - 1
 ```
 
-## TEMPO TOTAL
+### TEMPO TOTAL
 
 ```http
 Tble(n) = 2T + Tpx + 4Tpx + 2Tpx + 2T(Px - 1) + 2T(Px - 1) + T
