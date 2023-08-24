@@ -15,7 +15,7 @@ Enquanto Esq <= Dir faça
         Dir = meio + 1
 Devolva -1
 ```
-
+ 
 ### CONTAGEM DE INSTRUÇÃO POR LINHA
 ```http
 LINHA 1: executa 1 vez
