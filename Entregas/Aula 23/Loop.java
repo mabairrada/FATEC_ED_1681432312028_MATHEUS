@@ -10,10 +10,9 @@ public class Loop {
 	        int atual = 1;
 	        int proximo = 0;
 	        
-	        @SuppressWarnings("resource")
 			Scanner scannerEntrada = new Scanner(System.in);
 	        
-	        System.out.println("Digite a quantidade de elementos da sequência a serem impressos: ");
+	        System.out.println("Digite a quantidade de elementos da sequÃªncia a serem impressos: ");
 	        
 	        int comprimentoSequencia = scannerEntrada.nextInt();
 	        
