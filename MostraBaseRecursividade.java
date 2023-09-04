@@ -2,7 +2,7 @@ package Aula24;
 
 import javax.swing.JOptionPane;
 
-public class Recursividade {
+public class MostraBaseRecursividade {
 
     public static void main(String[] args) {
         String inputBase = JOptionPane.showInputDialog("Digite a base numérica (10, 2, 8 ou 16):");
